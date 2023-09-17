@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+
+body, main{
+    font-family: 'Archivo', sans-serif;
+}
+
+main{
+    align-items: center;
+    margin: auto;
+}
+
+header img{
+    align-items: center;
+    margin: auto;
+}
+
+.navcard{
+    background-color: rgb(254, 254, 185);
+    padding: 10px;
+}
+
+.card{
+    background-color: rgb(185, 185, 255);
+    padding: 10px;
+}
